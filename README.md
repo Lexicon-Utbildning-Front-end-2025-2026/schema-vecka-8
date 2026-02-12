@@ -68,7 +68,7 @@ Nu knyter vi ihop säcken. Hur kopplar vi det agila planerandet till den faktisk
 
 * Behärska Branching Strategies (Feature branches).
 * Skapa Pull Requests (PR) och genomföra Code Reviews.
-* **PROJEKTSTART:** Ni får era instruktioner för slutprojektet.
+* **PROJEKTSTART:** Ni får era instruktioner för grupprojektet.
 
 ### 🏋️ Eftermiddagsövning: "The PR-train"
 
