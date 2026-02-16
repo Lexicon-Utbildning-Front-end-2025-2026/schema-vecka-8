@@ -35,6 +35,10 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 * Sätta upp GitHub Projects för teamet.
 * Skapa de första korten (Issues).
 
+### Läsning 
+
+* [Sammanfattning av SCRUM](https://www.cornerstone.se/blogg/vad-menas-med-agil-metodik-och-agila-metoder/)
+
 ### 🏋️ Eftermiddagsövning: "Building the Board"
 
 1. **Setup:** Skapa ett **GitHub Project** kopplat till ert team-repo.
