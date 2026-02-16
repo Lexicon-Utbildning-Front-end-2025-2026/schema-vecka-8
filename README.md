@@ -38,7 +38,6 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 ### Läsning 
 
 * [Agilt vs. vattenfall](https://echometerapp.com/sv/agil-vs-vattenfall/)
-* [Sammanfattning av SCRUM](https://www.cornerstone.se/blogg/vad-menas-med-agil-metodik-och-agila-metoder/)
 
 ### 🏋️ Eftermiddagsövning: "Building the Board"
 
@@ -78,6 +77,10 @@ Nu knyter vi ihop säcken. Hur kopplar vi det agila planerandet till den faktisk
 * Behärska Branching Strategies (Feature branches).
 * Skapa Pull Requests (PR) och genomföra Code Reviews.
 * **PROJEKTSTART:** Ni får era instruktioner för grupprojektet.
+
+### Läsning 
+
+* [Starta upp ett GH Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
 
 ### 🏋️ Eftermiddagsövning: "The PR-train"
 
