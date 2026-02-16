@@ -37,6 +37,7 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 
 ### Läsning 
 
+* [Agilt vs. vattenfall](https://echometerapp.com/sv/agil-vs-vattenfall/)
 * [Sammanfattning av SCRUM](https://www.cornerstone.se/blogg/vad-menas-med-agil-metodik-och-agila-metoder/)
 
 ### 🏋️ Eftermiddagsövning: "Building the Board"
@@ -56,6 +57,10 @@ Hur pratar vi om funktioner så att alla förstår?
 * Skriva User Stories med formatet: *"Som en [roll], vill jag [mål], så att [nytta]"*.
 * Bryta ner stora krav (Epics) till hanterbara uppgifter (Tasks).
 * Förstå rollerna: Scrum Master, Product Owner och Teamet.
+
+### Läsning 
+
+* [Sammanfattning av SCRUM](https://www.cornerstone.se/blogg/vad-menas-med-agil-metodik-och-agila-metoder/)
 
 ### 🏋️ Eftermiddagsövning: "The User Story Workshop"
 
