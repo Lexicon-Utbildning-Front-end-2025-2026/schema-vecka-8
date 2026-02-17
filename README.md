@@ -39,6 +39,10 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 
 * [Agilt vs. vattenfall](https://echometerapp.com/sv/agil-vs-vattenfall/)
 
+###VSlides
+
+* [Från vattenfall till agilt](https://docs.google.com/presentation/d/11ybBOaJTrPXg03hN3hEKWSlKYI3guyPE683WDgViUD0/edit?usp=sharing)
+
 ### 🏋️ Eftermiddagsövning: "Building the Board"
 
 1. **Setup:** Skapa ett **GitHub Project** kopplat till ert team-repo.
