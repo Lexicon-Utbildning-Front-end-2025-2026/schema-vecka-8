@@ -39,7 +39,7 @@ Vi går från en att-göra-lista i huvudet till en visuell tavla.
 
 * [Agilt vs. vattenfall](https://echometerapp.com/sv/agil-vs-vattenfall/)
 
-###VSlides
+### Slides
 
 * [Från vattenfall till agilt](https://docs.google.com/presentation/d/11ybBOaJTrPXg03hN3hEKWSlKYI3guyPE683WDgViUD0/edit?usp=sharing)
 
@@ -64,6 +64,10 @@ Hur pratar vi om funktioner så att alla förstår?
 ### Läsning 
 
 * [Sammanfattning av SCRUM](https://www.cornerstone.se/blogg/vad-menas-med-agil-metodik-och-agila-metoder/)
+
+### Slides 
+
+* [Scrum](https://docs.google.com/presentation/d/17TxTTcZ2xJh6IoppBOOunzDCIYFqcPvuaA1otjIVqnc/edit?usp=sharing)
 
 ### 🏋️ Eftermiddagsövning: "The User Story Workshop"
 
