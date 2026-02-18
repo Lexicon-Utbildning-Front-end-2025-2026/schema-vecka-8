@@ -90,7 +90,7 @@ Nu knyter vi ihop säcken. Hur kopplar vi det agila planerandet till den faktisk
 
 * [Starta upp ett GH Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
 
-### 🏋️ Eftermiddagsövning: "The PR-train"
+### 🏋️ Morgonövning: "The PR-train"
 
 Innan ni börjar med projektet, gör denna snabbövning:
 
