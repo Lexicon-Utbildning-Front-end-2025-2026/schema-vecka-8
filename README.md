@@ -100,6 +100,10 @@ Innan ni börjar med projektet, gör denna snabbövning:
 4. **Koppla:** Lär er att skriva `Fixes #1` i er PR för att automatiskt stänga ett kort på projekt-tavlan.
 5. **Kontraktskrivning:** Ni skriver en överenskommelse över hur er versionshantering skall ske inom gruppen. Alla "skriver under". Spara som en readme-fil i ert projekt.
 
+### 📝 Projektet
+
+* [Repo](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/projekt-agila-metoder-instruktioner/tree/main)
+
 ---
 
 ## 📅 Fredag: Sprint 1 - Fullt fokus
