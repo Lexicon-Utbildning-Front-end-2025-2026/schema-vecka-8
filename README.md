@@ -98,6 +98,7 @@ Innan ni börjar med projektet, gör denna snabbövning:
 2. Gör en ändring, pusha och skapa en **Pull Request** på GitHub.
 3. En lagkamrat måste **Reviewa** och godkänna koden innan den får mergas.
 4. **Koppla:** Lär er att skriva `Fixes #1` i er PR för att automatiskt stänga ett kort på projekt-tavlan.
+5. **Kontraktskrivning:** Ni skriver en överenskommelse över hur er versionshantering skall ske inom gruppen. Alla "skriver under". Spara som en readme-fil i ert projekt.
 
 ---
 
